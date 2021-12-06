@@ -4,7 +4,7 @@ Deploy VLESS server to heroku
 
 #
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/louyour/dan-xray-vless"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/zoteqarer/danxary"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 
